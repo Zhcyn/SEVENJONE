@@ -1,0 +1,2 @@
+# SEVENJONE
+App to search for artists, artist's albums and album's tracks. We have adopted a faster and more streamlined search algorithm to make your search more responsive in real time. The current application is still under development. The current version tests the completeness of the search logic and the reliability of the results. UI adjustments will be made later. If you encounter problems during the test, please contact me.
